@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\LENOVO\\Desktop\\Hacktoberfest Projects\\Rohit's Project\\smart-contract-snippets\\contracts\\simple-contracts\\Add2Numbers.sol": {
+      "lastModificationDate": 1696177951024,
+      "contentHash": "41ecc8605491e93213df1c24738ba272",
+      "sourceName": "contracts/simple-contracts/Add2Numbers.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "Add2Numbers"
+      ]
+    }
+  }
+}

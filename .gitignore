@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Hardhat artifacts and cache
+.cache/
+artifacts/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore .env files (sensitive information)
+.env
+
+# Ignore build and compiled contract files
+build/
+
+# Rohit's files
+readMeRohit
